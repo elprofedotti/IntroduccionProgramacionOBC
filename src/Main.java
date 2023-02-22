@@ -5,7 +5,7 @@ public class Main {
         //añado comentario para probar GIT
         System.out.println(funcion(1,2,3));
 
-        //añado comentario para probar GIT
+        //anda joya el GIT
         Coche coche=new Coche();
         coche.incrementarPuertas();
         System.out.println(coche.puertas);
